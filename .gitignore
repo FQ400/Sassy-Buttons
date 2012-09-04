@@ -6,3 +6,5 @@ pkg/
 .sass-cache
 build/
 .rvmrc
+Gemfile.lock
+tmtags
